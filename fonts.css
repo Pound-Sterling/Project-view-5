@@ -1,0 +1,58 @@
+
+/* INTER */
+
+@font-face {
+    font-family: "Inter-Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: 
+         url("./fonts/Inter/Inter-Regular.ttf") format('truetype');
+}
+@font-face {
+    font-family: "Inter-Medium";
+    font-style: normal;
+    font-weight: 500;
+    src: 
+         url("./fonts/Inter/Inter-Medium.ttf") format('truetype');
+}
+@font-face {
+    font-family: "Inter-Bold";
+    font-style: normal;
+    font-weight: 700;
+    src: 
+         url("./fonts/Inter/Inter-Bold.ttf") format('truetype');
+}
+
+/* ROBOTO */
+
+@font-face {
+    font-family: "Roboto-Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: 
+         url("./fonts/Roboto/Roboto-Regular.ttf") format('truetype');
+}
+@font-face {
+    font-family: "Roboto-Medium";
+    font-style: normal;
+    font-weight: 400;
+    src: 
+         url("./fonts/Roboto/Roboto-Medium.ttf") format('truetype');
+}
+@font-face {
+    font-family: "Roboto-Bold";
+    font-style: normal;
+    font-weight: 700;
+    src: 
+         url("./fonts/Roboto/Roboto-Bold.ttf") format('truetype');
+}
+
+/* QUICKSAND */
+
+@font-face {
+    font-family: "QuickSand-Bold";
+    font-style: normal;
+    font-weight: 700;
+    src: 
+         url("./fonts/Quicksand/Quicksand-Bold.ttf") format('truetype');
+}
